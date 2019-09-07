@@ -1,0 +1,26 @@
+.article {
+    max-width: 1280px;  
+}
+
+.review {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.review_section {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.comments {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}

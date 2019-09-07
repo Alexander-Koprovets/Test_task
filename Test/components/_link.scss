@@ -1,0 +1,16 @@
+.header_link {
+    color: $main-color;
+
+    &:hover {
+        color: $other-color;
+    }
+}
+
+.link_footer > a {
+    color: #ffffff;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}

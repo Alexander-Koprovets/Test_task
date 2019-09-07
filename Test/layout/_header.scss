@@ -1,0 +1,16 @@
+.header {
+    max-width: 1280px;
+    vertical-align: middle;
+    min-height: 50px;
+    box-shadow:  0 6px 10px -4px #d7e3f5;
+}
+
+.sub_header {
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+    width: 80%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}

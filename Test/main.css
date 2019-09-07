@@ -1,0 +1,375 @@
+@import url(https://fonts.googleapis.com/css?family=Livvic&display=swap);
+.heading {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+.head_trial > p {
+  color: #ffffff;
+  font-size: 1em;
+  margin: 0;
+  text-transform: uppercase;
+  padding: 10px 0;
+  font-weight: bolder;
+}
+
+.head_trial > span {
+  color: #ffffff;
+  font-size: 1.2em;
+  padding: 0;
+}
+
+.main_trial > p {
+  font-size: 0.5rm;
+}
+
+.description {
+  font-size: 0.5em;
+  color: #008558;
+}
+
+.price {
+  color: #008558;
+  font-size: 1.8em;
+  font-weight: bolder;
+}
+
+.bott {
+  color: #008558;
+  text-align: center;
+}
+
+.main_plan > p {
+  font-size: 0.5rm;
+}
+
+.year {
+  color: #008558;
+  font-size: 0.4em;
+}
+
+h3 {
+  color: #ffffff;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 10px;
+  margin: 0;
+}
+
+.str > p {
+  margin: 0;
+  padding-left: 5px;
+  font-size: 1.2em;
+}
+
+h2 {
+  text-align: center;
+  font-size: 1.2em;
+  margin: 5px 0 0 0;
+}
+
+h5 {
+  margin: 10px 0 10px 0;
+}
+
+.link_footer > span {
+  color: #ffffff;
+  padding: 0 30px;
+}
+
+.link_footer > p {
+  color: #a5a8ad;
+  font-size: 0.7em;
+  margin: 30px 0 0 0;
+  text-align: center;
+}
+
+body {
+  font-family: 'Livvic', sans-serif;
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.header {
+  max-width: 1280px;
+  vertical-align: middle;
+  min-height: 50px;
+  -webkit-box-shadow: 0 6px 10px -4px #d7e3f5;
+          box-shadow: 0 6px 10px -4px #d7e3f5;
+}
+
+.sub_header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  vertical-align: middle;
+  width: 80%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main {
+  max-width: 1280px;
+}
+
+.main_offer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 80%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.trial {
+  width: 250px;
+  border: 1px solid #008558;
+  border-radius: 5px;
+}
+
+.head_trial {
+  height: 70px;
+  background: #008558;
+  border-radius: 5%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.main_trial {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.logo_trial {
+  margin: 5px 0 0 0;
+}
+
+.plan {
+  width: 250px;
+  border-radius: 5px;
+}
+
+.head_plan {
+  height: 70px;
+}
+
+.main_plan {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.logo_plan {
+  margin: 12px 0 0 0;
+}
+
+.section {
+  max-height: 400px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.str {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 5px 0;
+}
+
+.logo_check {
+  margin: 5px 0;
+}
+
+.article {
+  max-width: 1280px;
+}
+
+.review {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 80%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.review_section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 50%;
+}
+
+.comments {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 80%;
+}
+
+.footer {
+  max-width: 1280px;
+  min-height: 130px;
+  background: #000000;
+  border-radius: 3%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 50px;
+}
+
+.sub_footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  width: 80%;
+  height: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.link_footer {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo_header {
+  background: url(img/sprites.png) no-repeat -120px -229px;
+  width: 131px;
+  height: 25px;
+}
+
+.logo_trial {
+  background: url(img/sprites.png) no-repeat -273px -99px;
+  width: 85px;
+  height: 100px;
+}
+
+.logo_plan {
+  background: url(img/sprites.png) no-repeat -10px -231px;
+  width: 89px;
+  height: 96px;
+}
+
+.logo_section {
+  background: url(img/sprites.png) no-repeat -11px -10px;
+  width: 406px;
+  height: 69px;
+}
+
+.logo_check {
+  background: url(img/sprites.png) no-repeat -381px -99px;
+  width: 11px;
+  height: 8px;
+}
+
+.logo_review {
+  background: url(img/sprites.png) no-repeat -16px -105px;
+  width: 98px;
+  height: 98px;
+}
+
+.logo_review_mod {
+  background: url(img/sprites.png) no-repeat -146px -105px;
+  width: 98px;
+  height: 98px;
+}
+
+.logo_footer {
+  background: url(img/sprites.png) no-repeat -272px -229px;
+  width: 131px;
+  height: 25px;
+}
+
+.header_link {
+  color: #008558;
+}
+
+.header_link:hover {
+  color: #d6541c;
+}
+
+.link_footer > a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.link_footer > a:hover {
+  text-decoration: underline;
+}
+
+button {
+  background: #d6541c;
+  width: 200px;
+  height: 50px;
+  border-radius: 5%;
+  color: #ffffff;
+  margin: 20px 0 15px 0;
+}
+
+button:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=main.css.map */
